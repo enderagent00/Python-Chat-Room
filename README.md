@@ -1,2 +1,8 @@
+
 # Python-Chat-Room
-Simple chat room in python with a server and client
+
+### About
+This is a simple chat room application with a server and a client
+
+### Features
+- 
