@@ -192,7 +192,6 @@ class ChatRoomClient(socket.socket, Tk):
 
 if __name__ == "__main__":
     username = input("[?] Enter Username: ")
-    #username = "John"
 
     client = ChatRoomClient(socket.gethostname(), 1024, username)
     client.start()
